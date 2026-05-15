@@ -1,4 +1,5 @@
 ## Security_Incident_Response_Using_NIST-CSF
+- This repository contains my submission for the Google Cybersecurity Certificate activity following its given situation.
 
 # Incident Report Analysis
 Applying the NIST Cybersecurity Framework in an Incident Response
